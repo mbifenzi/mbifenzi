@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-- :hammer_and_wrench: <h2><b> Tools and Technologies i use : </b></h2> <div>
+- <h2>:hammer_and_wrench: <b> Tools and Technologies i use : </b></h2> <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 </br>
-:fire: <h2><b>My Stats : </b> </h2>
+<h2>:fire: <b>My Stats : </b> </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbifenzi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
