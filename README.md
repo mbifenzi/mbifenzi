@@ -3,7 +3,18 @@
 - 👋 Hi, I’m Mohamed BIFENZI
 - 👀 I’m interested in Front-End/Back-End development
 - 🌱 I’m currently learning NestJS
-- 📫 Reach me via Email : mohamedbifenzi1@gmail.com
+- 📫 Reach me via Email : 
+- <div id="badges">
+  <a href="https://www.linkedin.com/in/mohamed-bifenzi-83ba51221/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+  </a>
+  <a href="mailto:bifenziapple@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
+  <a href="https://twitter.com/MBifenzi">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!---
 mbifenzi/mbifenzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
