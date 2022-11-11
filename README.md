@@ -1,6 +1,6 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clabpiaur00110fl1byqlhsei/stats?cursusId=21&coalitionId=79" alt="mbifenzi's 42 stats" /></a>
 
-- 👋 Hi, I’m Mohamed BIFENZI
+- 👋 Hi, I’m <b>Mohamed BIFENZI</b>
 - 👀 I’m interested in Front-End/Back-End development
 - 🌱 I’m currently learning NestJS
 - 📫 Reach me via Email :  <div id="badges">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-- :hammer_and_wrench: Tools and Technologies i use : <div>
+- :hammer_and_wrench: <h2><b> Tools and Technologies i use : </b></h2> <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -29,6 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
+</br>
+:fire: <h2><b>My Stats : </b> </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbifenzi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
